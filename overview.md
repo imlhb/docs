@@ -6,7 +6,7 @@ EasyWeChat 的安装非常简单，因为它是一个标准的 [Composer](https:
 
 ### 环境需求
 
->  - PHP >= 7.0
+>  - PHP >= 7.2
 >  - [PHP cURL 扩展](http://php.net/manual/en/book.curl.php)
 >  - [PHP OpenSSL 扩展](http://php.net/manual/en/book.openssl.php)
 >  - [PHP SimpleXML 扩展](http://php.net/manual/en/book.simplexml.php)
